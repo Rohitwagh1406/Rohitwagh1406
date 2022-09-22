@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohi
+- 👋 Hi, I’m @Rohit
 - 👀 I’m interested in ...data
 - 🌱 I’m currently learning ...data analysis
 - 💞️ I’m looking to collaborate on ...big dat
